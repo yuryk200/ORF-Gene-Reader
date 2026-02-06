@@ -23,3 +23,5 @@
   <li>DNA sequence data</li>
   <li>Newline characters(for continous nucleotide sequence)</li>
 </ul>
+
+<h5>1. Complementary and Reverse Complenetary Strands</h5>
