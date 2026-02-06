@@ -23,9 +23,8 @@
   <li>DNA sequence data</li>
   <li>Newline characters(for continous nucleotide sequence)</li>
 </ul>
-
 <h4>2. Complementary and Reverse Complenetary Strands</h4>
-<p>The complementary strand is generated using stabdard base pairing rules</p>
+<p>The complementary strand is generated using stabdard base pairing rules:</p>
 <table>
   <thead>
     <tr>
@@ -52,6 +51,15 @@
     </tr>
   </tbody>
 </table>
+<h4>3. Reading Frames</h4>
+<p>A DNA sequence can be translated started at three different offsets</p>
+<ul>
+  <li>Frame 1: The primary sequence 5' to 3' starting at index 0</li>
+  <li>Frame 2: The compliment sequence 3' to 5' starting at index 1</li>
+  <li>Frame 3: The reverse compliment 5' to 3' starting at index 2</li>
+</ul>
+
+
 
 
 
