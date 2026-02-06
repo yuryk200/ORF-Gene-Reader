@@ -8,3 +8,5 @@
   <li>Translate codons into amino acids</li>
   <li>Display amino acid sequences for all six reading frames</li>
 </ol>
+<h4>How it Works</h4>
+<h5>FASTA Input</h5>
