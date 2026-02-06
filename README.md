@@ -16,7 +16,7 @@
 <pre><code class="language-bash">python readORF.py</code></pre>
 
 <p>Then select the FASTA file</p>
-<img src="ORFGeneReader/fasta.PNG" alt="fasta file" width="300">
+<img src="ORFGeneReader/images/fasta.PNG" alt="fasta file" width="300">
 <p>The program reads the a FASTA file and extracts</p>
 <ul>
   <li>Description/header line</li>
@@ -58,14 +58,14 @@
   <li>Frame 2: The compliment sequence 3' to 5' starting at index 1</li>
   <li>Frame 3: The reverse compliment 5' to 3' starting at index 2</li>
 </ul>
-<img src="ORFGeneReader/frames.PNG" width="700">
+<img src="ORFGeneReader/images/frames.PNG" width="700">
 <p>Each frame produces a different grouping of codons.</p>
 <p>The program performs translations for:</p>
 <ul>
   <li>RF1, RF2, RF3 (primary strand)</li>
   <li>RF-1, RF-2, RF-3 (reverse complement</li>
 </ul>
-<img src="ORFGeneReader/strands.PNG" width="700">
+<img src="ORFGeneReader/images/strands.PNG" width="700">
 <h4>4. Translation</h4>
 <p>The script uses a codon table dictionary to map DNA triplets to amino acids.</p>
 <p>Example:</p>
@@ -73,6 +73,10 @@
 <p>TGG → W (Tryptophan)</p>
 <p>TAA → * (Stop codon)</p>
 <p>Reading Frame translation for Primary Strand Example:</p>
+<img src="ORFGeneReader/images/RF_Primary.PNG" width="700">
+<p>Reading Frame translation for Reverse Complimentary Strand Example:</p>
+<img src="ORFGeneReader/images/RF_Reverse.PNG" width="700">
+
 
 
 
