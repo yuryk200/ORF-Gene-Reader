@@ -14,3 +14,5 @@
 <p>Run the script using:</p>
 
 <pre><code class="language-bash">python readORF.py</code></pre>
+
+<p>Then select the FASTA file</p>
