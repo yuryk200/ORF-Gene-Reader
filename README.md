@@ -9,4 +9,8 @@
   <li>Display amino acid sequences for all six reading frames</li>
 </ol>
 <h4>How it Works</h4>
-<h5>FASTA Input</h5>
+<h5>1. FASTA Input</h5>
+<text>Run the script using:</text>
+```
+python readORF.py
+```
