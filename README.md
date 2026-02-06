@@ -13,4 +13,6 @@
 <text>Run the script using:</text>
 ```bash
 python readORF.py
+``````bash
+python readORF.py
 ```
