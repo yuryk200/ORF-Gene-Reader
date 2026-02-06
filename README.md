@@ -86,8 +86,14 @@
 <h4>Performance</h4>
 <p>The program processess DNA sequences using linear iteration over the input sequence, resulting in the O(n) time complexity for both complenetary strand generation and codon translation.</p>
 <h4>Testing & Validation</h4>
-
-
+<p>Correctness was validated using known biological sequences, including the human HBB (Hemoglobin Beta) gene</p>
+<ul>
+  <li>Verifying complementary and reverse complement sequences against known base-pairing rules</li>
+  <li>Confirming amino acid outputs match expected codon translations</li>
+  <li>Checking stop codon placement (*) across reading frames</li>
+  <li>Manual comparison of output consistency between forward and reverse strands</li>
+</ul>
+<p>The deterministic codon table ensures consistent translation across runs.</p>
 
 
 
