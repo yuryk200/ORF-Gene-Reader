@@ -5,4 +5,6 @@
 <ol>
   <li>Read a DNA sequence from FASTA file</li>
   <li>Generate the complementary and reverse complementary strands</li>
+  <li>Translate codons into amino acids</li>
+  <li>Display amino acid sequences for all six reading frames</li>
 </ol>
