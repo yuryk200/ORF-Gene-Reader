@@ -11,6 +11,6 @@
 <h4>How it Works</h4>
 <h5>1. FASTA Input</h5>
 <text>Run the script using:</text>
-```
+```bash
 python readORF.py
 ```
