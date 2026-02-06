@@ -21,4 +21,5 @@
 <ul>
   <li>Description/header line</li>
   <li>DNA sequence data</li>
+  <li>Newline characters(for continous nucleotide sequence)</li>
 </ul>
