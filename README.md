@@ -65,7 +65,7 @@
   <li>RF1, RF2, RF3 (primary strand)</li>
   <li>RF-1, RF-2, RF-3 (reverse complement</li>
 </ul>
-
+<img src="ORFGeneReader/strands.PNG" width="700">
 
 
 
