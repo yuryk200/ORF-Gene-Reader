@@ -72,6 +72,8 @@
 <p>ATG → M (Methionine)</p>
 <p>TGG → W (Tryptophan)</p>
 <p>TAA → * (Stop codon)</p>
+<p>Reading Frame translation for Primary Strand Example:</p>
+
 
 
 
