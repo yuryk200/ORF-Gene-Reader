@@ -16,4 +16,4 @@
 <pre><code class="language-bash">python readORF.py</code></pre>
 
 <p>Then select the FASTA file</p>
-<img src="ORFGeneReader/fasta.png" alt="fasta file">
+<img src="fasta.png" alt="fasta file">
